@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.32ea4535.css",
-    "main.js": "/static/js/main.95e1a1c3.js",
+    "main.js": "/static/js/main.b67304ba.js",
     "static/js/453.0a36081d.chunk.js": "/static/js/453.0a36081d.chunk.js",
-    "static/media/loader.gif": "/static/media/loader.7629d0eed51352bb1564.gif",
     "static/media/tab.png": "/static/media/tab.45d181b5b2be30760ddb.png",
     "static/media/BG-Image.png": "/static/media/BG-Image.59401d83ec88a879a2ac.png",
     "static/media/bg-mobile.png": "/static/media/bg-mobile.e48b49c9ad941be933f3.png",
+    "static/media/loader.gif": "/static/media/loader.8d8e9b317b9d77ad42a7.gif",
     "static/media/Why Choose US.png": "/static/media/Why Choose US.0995401793118aa97379.png",
     "static/media/Why Get.png": "/static/media/Why Get.c03ecb5f9607ca7a7504.png",
     "static/media/banner.png": "/static/media/banner.b4bb8fcd11b0ff298314.png",
@@ -43,11 +43,11 @@
     "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.578105f8b44e4a362e5c91937ca28967.svg",
     "main.32ea4535.css.map": "/static/css/main.32ea4535.css.map",
-    "main.95e1a1c3.js.map": "/static/js/main.95e1a1c3.js.map",
+    "main.b67304ba.js.map": "/static/js/main.b67304ba.js.map",
     "453.0a36081d.chunk.js.map": "/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32ea4535.css",
-    "static/js/main.95e1a1c3.js"
+    "static/js/main.b67304ba.js"
   ]
 }
