@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f74f5636.css",
-    "main.js": "/static/js/main.6c4b66f7.js",
+    "main.css": "/static/css/main.0eb3c8d8.css",
+    "main.js": "/static/js/main.80fb74e5.js",
     "static/js/453.0a36081d.chunk.js": "/static/js/453.0a36081d.chunk.js",
     "static/media/loader.gif": "/static/media/loader.8d8e9b317b9d77ad42a7.gif",
     "static/media/Coming Soon.png": "/static/media/Coming Soon.030475565202195b27c2.png",
@@ -15,6 +15,7 @@
     "static/media/bg-mobile.png": "/static/media/bg-mobile.4c4b2b09d0d905809606.png",
     "static/media/Card.png": "/static/media/Card.76661c951508fd5c612f.png",
     "static/media/Background.png": "/static/media/Background.76c605f9342ae9f65edd.png",
+    "static/media/Logo.png": "/static/media/Logo.bebb5a090fc8415fc96f.png",
     "static/media/Lufga-Regular.woff": "/static/media/Lufga-Regular.737d8fe87fbd7e6bce22.woff",
     "static/media/K12 Education Plan.png": "/static/media/K12 Education Plan.e9ff3294d267439814fb.png",
     "static/media/Government Programs.png": "/static/media/Government Programs.e1bae0142d7ac5fd43e0.png",
@@ -45,12 +46,12 @@
     "static/media/menu.svg": "/static/media/menu.3e5cc0a2e8d3b384aa49a1327cb07352.svg",
     "static/media/DropActive.svg": "/static/media/DropActive.771d3adc9ff588f067ad6b5cb1731d71.svg",
     "static/media/Drop.svg": "/static/media/Drop.bddf5e44324b239b60dd52dac3eec854.svg",
-    "main.f74f5636.css.map": "/static/css/main.f74f5636.css.map",
-    "main.6c4b66f7.js.map": "/static/js/main.6c4b66f7.js.map",
+    "main.0eb3c8d8.css.map": "/static/css/main.0eb3c8d8.css.map",
+    "main.80fb74e5.js.map": "/static/js/main.80fb74e5.js.map",
     "453.0a36081d.chunk.js.map": "/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f74f5636.css",
-    "static/js/main.6c4b66f7.js"
+    "static/css/main.0eb3c8d8.css",
+    "static/js/main.80fb74e5.js"
   ]
 }
